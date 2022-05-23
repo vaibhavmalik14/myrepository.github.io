@@ -76,7 +76,7 @@ export default function Footer() {
               zIndex: -1,
             }}
           >
-            <NextLink href="/">🤝BetterFund</NextLink>
+            <NextLink href="/">Fund Me</NextLink>
           </Box>
         </Heading>
         <Stack direction={"row"} spacing={6}>
@@ -89,7 +89,7 @@ export default function Footer() {
           >
             Github
           </Link>
-          <Link href={"mailto:harshbadhai242@gmail.com"} isExternal>
+          <Link href={"mailto:foodera1@gmail.com"} isExternal>
             Contact
           </Link>
         </Stack>
@@ -109,24 +109,24 @@ export default function Footer() {
           justify={{ base: "center", md: "space-between" }}
           align={{ base: "center", md: "center" }}
         >
-          <Text>🌐 Made while 💩 by Harsh, Hritvik , Nischal & Aaditya</Text>
+          <Text>🌐 Made By Vaibhav </Text>
           <Stack direction={"row"} spacing={6}>
-            <SocialButton label={"Website"} href={"https://harshbadhai.me/"}>
+            <SocialButton label={"Website"} href={"https://google.com/"}>
               {" "}
               <FaGlobe />
             </SocialButton>
             <SocialButton
               label={"Twitter"}
-              href={"https://twitter.com/harshbadhai28"}
+              href={"https://twitter.com/"}
             >
               <FaTwitter />
             </SocialButton>
-            <SocialButton label={"Github"} href={"https://github.com/harsh242"}>
+            <SocialButton label={"Github"} href={"https://github.com/vaibhavalik14"}>
               <FaGithub />
             </SocialButton>
             <SocialButton
               label={"Instagram"}
-              href={"https://www.instagram.com/frames_by._harsh/"}
+              href={"https://www.instagram.com/"}
             >
               <FaInstagram />
             </SocialButton>
